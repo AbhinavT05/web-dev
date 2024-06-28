@@ -1,0 +1,23 @@
+h1{
+    font-size: 64px;
+    color: hwb(0 39% 26%);
+    text-align: center;
+    text-decoration: underline;
+
+}
+h2{
+    font-family: cursive;
+    color: rgb(4, 40, 72);
+}
+body{
+    background-image: url('pg3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    
+}
+button:hover{
+    border: rebeccapurple;
+}
+
